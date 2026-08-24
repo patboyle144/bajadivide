@@ -8,9 +8,9 @@ These are the most current gpx and route guide files for the Baja Divide Bikepac
 
 2026 update (this is most current as of Aug 2026)
 - [Caltopo of route gpx and waypoint (you can export them).](https://caltopo.com/m/DS5UK)
-- [Google doc version of route guide](https://docs.google.com/document/d/1f_HVb3Pe6TepQchNFZvO0hXRXQr4wVmEAZz00TEAvbs/edit?usp=sharing) This is an edited version of Carmen's original route guide and very useful.  Highly recommended.
+- [Google doc version of route guide](https://docs.google.com/document/d/1f_HVb3Pe6TepQchNFZvO0hXRXQr4wVmEAZz00TEAvbs/edit?usp=sharing) This is an edited version of Nicholas' original route guide and very useful.  Highly recommended.
 - [GPX and waypoints file](Baja_Divide_v2026.gpx) This is the same as what you can export from caltopo above.
-- [Baja_Divide_Resupply_Guide(2023version).pdf](Baja_Divide_Resupply_Guide.pdf) This is a helpful spreadsheet for planning that Carmen made. Slightly out of date, but still worthwhile.
+- [Baja_Divide_Resupply_Guide(2023version).pdf](Baja_Divide_Resupply_Guide.pdf) This is a helpful spreadsheet for planning that Nicholas made. Slightly out of date, but still worthwhile.
 
 2024 update (old)
 - [Baja_Divide_Resupply_Guide(2023version).pdf](Baja_Divide_Resupply_Guide.pdf)
@@ -38,4 +38,4 @@ What apps should I use for navigation?  I recommend GaiaGPS and Caltopo.  I reco
 
 Why don't you upload these routes to other apps like RidewithGPS, OnX and Komoot?  We probably should, but then it's a bit harder for us to maintain so we provide all the data here.
 
-How do you know what to update?  It's been a few years since I rode the route (2 different trips), but by reading the FB posts and some communication with Salvador at FASS bikes we make changes.  
+How do you know what to update?  It's been a few years since I rode the route (2 different trips), but by reading the FB posts and some communication with Salvador at FASS bikes we make relevant or important changes.  
