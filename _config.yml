@@ -1,5 +1,5 @@
 title: Baja Divide
-description: A blog for route info and updates
+description: Route info and updates
 
 theme: minima
 
@@ -7,7 +7,7 @@ plugins:
   - jekyll-feed
   - jekyll-seo-tag
 
-url: "https://phatboyle.github.io"
+url: "https://patboyle144.github.io"
 baseurl: "/bajadivide"
 
 # Optional minima settings
@@ -17,4 +17,4 @@ minima:
 
 # Show specific pages in header nav
 header_pages:
-  - about.md
+
