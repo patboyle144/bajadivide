@@ -6,7 +6,12 @@ title: Home
 
 These are the most current gpx and route guide files for the Baja Divide.
 
-2024 Files
+2026 update
+- Caltopo of route gpx and waypoint (you can export them). https://caltopo.com/m/DS5UK
+- [Google doc version of route guide](https://docs.google.com/document/d/1f_HVb3Pe6TepQchNFZvO0hXRXQr4wVmEAZz00TEAvbs/edit?usp=sharing)
+- [GPX and waypoints file](https://Baja_Divide_v2026.gpx)
+
+2024 update
 - [Baja_Divide_Resupply_Guide(2023version).pdf](Baja_Divide_Resupply_Guide.pdf)
 - [Baja_Divide_2024_waypoints.gpx](Baja_Divide_2024_waypoints.gpx)
 - [baja_divide_v2024revb.gpx](baja_divide_v2024revb.gpx)
