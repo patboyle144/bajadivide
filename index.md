@@ -4,7 +4,7 @@ title: Home
 ---
 ### Baja Divide important files
 
-These are the most current gpx and route guide files for the Baja Divide Bikepacking route.  This site is hosted by Pat Boyle, one of the admins for the Baja Divide Facebook group.  This is where the most recent versions of the route guide and the gpx file of the route are hosted.  The gpx can be loaded into your navigation device of choice.
+These are the most current gpx and route guide files for the Baja Divide Bikepacking route.  This site is hosted by [Pat Boyle](https://patboyle144.github.io/), one of the admins for the Baja Divide Facebook group.  This is where the most recent versions of the route guide and the gpx file of the route are hosted.  The gpx can be loaded into your navigation device of choice.
 
 2026 update (this is most current as of Aug 2026)
 - [Caltopo of route gpx and waypoint (you can export them).](https://caltopo.com/m/DS5UK)
@@ -38,4 +38,8 @@ What apps should I use for navigation?  I recommend GaiaGPS and Caltopo.  I reco
 
 Why don't you upload these routes to other apps like RidewithGPS, OnX and Komoot?  We probably should, but then it's a bit harder for us to maintain so we provide all the data here.
 
-How do you know what to update?  It's been a few years since I rode the route (2 different trips), but by reading the FB posts and some communication with Salvador at FASS bikes we make relevant or important changes.  
+How do you know what to update?  It's been a few years since I rode the route (2 different trips), but by reading the FB posts and some communication with Salvador at FASS bikes we make relevant or important changes.
+
+---
+
+More from Pat: [home page and travel blog](https://patboyle144.github.io/).
